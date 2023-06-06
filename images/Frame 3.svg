@@ -1,0 +1,49 @@
+<svg width="655" height="93" viewBox="0 0 655 93" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_36_122)">
+<rect width="655" height="93" fill="white"/>
+<g filter="url(#filter0_d_36_122)">
+<mask id="mask0_36_122" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-680" y="0" width="1440" height="94">
+<rect x="-680" width="1440" height="94" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_36_122)">
+<rect x="-25.4939" y="-648" width="69" height="1345" transform="rotate(30 -25.4939 -648)" fill="#202020"/>
+<rect x="34.2619" y="-613.5" width="68" height="1345" transform="rotate(30 34.2619 -613.5)" fill="#FFEE32"/>
+<rect x="93.1516" y="-579.5" width="69" height="1345" transform="rotate(30 93.1516 -579.5)" fill="#202020"/>
+<rect x="152.907" y="-545" width="69" height="1345" transform="rotate(30 152.907 -545)" fill="#FFEE32"/>
+<rect x="212.663" y="-510.5" width="69" height="1345" transform="rotate(30 212.663 -510.5)" fill="#202020"/>
+<rect x="271.553" y="-476.5" width="69" height="1345" transform="rotate(30 271.553 -476.5)" fill="#FFEE32"/>
+<rect x="331.309" y="-442" width="69" height="1345" transform="rotate(30 331.309 -442)" fill="#202020"/>
+<rect x="391.064" y="-407.5" width="69" height="1345" transform="rotate(30 391.064 -407.5)" fill="#FFEE32"/>
+<rect x="450.82" y="-373" width="68" height="1345" transform="rotate(30 450.82 -373)" fill="#202020"/>
+<rect x="509.71" y="-339" width="69" height="1345" transform="rotate(30 509.71 -339)" fill="#FFEE32"/>
+<rect x="569.466" y="-304.5" width="69" height="1345" transform="rotate(30 569.466 -304.5)" fill="#202020"/>
+<rect x="629.221" y="-270" width="68" height="1345" transform="rotate(30 629.221 -270)" fill="#FFEE32"/>
+<rect x="688.111" y="-236" width="69" height="1345" transform="rotate(30 688.111 -236)" fill="#202020"/>
+<rect x="747.867" y="-201.5" width="69" height="1345" transform="rotate(30 747.867 -201.5)" fill="#FFEE32"/>
+<rect x="807.623" y="-167" width="68" height="1345" transform="rotate(30 807.623 -167)" fill="#202020"/>
+<rect x="866.512" y="-133" width="69" height="1345" transform="rotate(30 866.512 -133)" fill="#FFEE32"/>
+<rect x="926.268" y="-98.5" width="69" height="1345" transform="rotate(30 926.268 -98.5)" fill="#202020"/>
+<rect x="986.024" y="-64" width="68" height="1345" transform="rotate(30 986.024 -64)" fill="#FFEE32"/>
+<rect x="1044.91" y="-30" width="69" height="1345" transform="rotate(30 1044.91 -30)" fill="#202020"/>
+<rect x="1104.67" y="4.5" width="69" height="1345" transform="rotate(30 1104.67 4.5)" fill="#FFEE32"/>
+<rect x="1164.43" y="39" width="68" height="1345" transform="rotate(30 1164.43 39)" fill="#202020"/>
+<rect x="1223.31" y="73" width="69" height="1345" transform="rotate(30 1223.31 73)" fill="#FFEE32"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_36_122" x="-684" y="0" width="1448" height="102" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_36_122"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_36_122" result="shape"/>
+</filter>
+<clipPath id="clip0_36_122">
+<rect width="655" height="93" fill="white"/>
+</clipPath>
+</defs>
+</svg>
